@@ -78,15 +78,13 @@ html p {
     display: inline-block;
     margin: auto auto auto auto;
     padding: 10px 0px;
-    background: rgba(11,52,79,0.60);
-    width: 500px;
+    width: 800px;
     color: #000;
 }
 
 .content p {
-    font-size: 12px;
+    font-size: 30px;
     letter-spacing: 0;
-    text-shadow: 0 2px 4px #000000;
     text-align: center;
 }
 .content strong {
