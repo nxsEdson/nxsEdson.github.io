@@ -74,13 +74,13 @@ html p {
     height: 100px;
 }
 .img-header .content {
-    font-family: Courier;
+    font-family: Arial;
     display: inline-block;
-    margin: 128px auto 0 334px;
+    margin: auto auto auto auto;
     padding: 10px 0px;
     background: rgba(11,52,79,0.60);
-    width: 313px;
-    color: #fff;
+    width: 500px;
+    color: #000;
 }
 
 .content p {
