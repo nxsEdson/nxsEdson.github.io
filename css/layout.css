@@ -4,7 +4,7 @@
 }
 html, body {
     width: 100%;
-    font-family: Arial;
+    font-family: PingFangSC;
 }
 a {
     text-decoration: none;
@@ -63,14 +63,30 @@ html p {
 .w-experience-detail .pmessage:hover .hide {
     top: 30px;
 }
+.img-header {
+    width: 1000px;
+    height: 300px;
+    margin-top: 20px; 
+    background-image: url(../image/Group.png);
+}
 .peasonal-image {
-    width: 150px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+}
+.img-header .content {
+    font-family: Courier;
+    display: inline-block;
+    margin: 128px auto 0 334px;
+    padding: 10px 0px;
+    background: rgba(11,52,79,0.60);
+    width: 313px;
+    color: #fff;
 }
 
 .content p {
-    font-size: 30px;
+    font-size: 12px;
     letter-spacing: 0;
+    text-shadow: 0 2px 4px #000000;
     text-align: center;
 }
 .content strong {
